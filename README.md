@@ -1,2 +1,2 @@
 # Xylophone
-Simple Xylophon iOS game
+Play the Xylophon!
